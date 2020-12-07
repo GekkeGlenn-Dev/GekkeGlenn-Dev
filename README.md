@@ -1,3 +1,4 @@
+```java
 public class GekkeGlenn extends GitHubUser {
 
   public GekkeGlenn() {
@@ -23,7 +24,7 @@ public abstract class GitHubUser {
     languages.addAll(language);
   }
 }
-
+```
 <table>
   <tr>
     <td>
