@@ -40,18 +40,17 @@ public abstract class GitHubUser {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=GekkeGlenn-Dev&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="github stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact" />
+      </a>
     </td>
     <td>
       <img src="https://wakatime.com/share/@af07fbf9-4b8e-424e-bdec-8fade491e4d4/47d48645-0068-42fe-b983-9f57c92f3ef3.svg" alt="wakatime stats" height=195>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact" />
-      </a>
-        [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <td colspan=2>
+      <img src="https://github-readme-stats.vercel.app/api?username=GekkeGlenn-Dev&count_private=true&show_icons=true&theme=dark&hide_border=false" alt="github stats">
     </td>
   </tr>
 </table>
