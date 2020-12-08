@@ -48,7 +48,7 @@ public abstract class GitHubUser {
   </tr>
   <tr>
     <td>
-      [![willianrod's wakatime stats](<img src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact>)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact>
     </td>
   </tr>
 </table>
