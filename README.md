@@ -49,8 +49,8 @@ public abstract class GitHubUser {
   </tr>
   <tr>
     <td>
-     <!-- <img src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">-->
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact">
+     <img src="[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)">
+<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GekkeGlennDev&layout=compact"> -->
     </td>
   </tr>
 </table>
